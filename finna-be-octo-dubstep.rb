@@ -5,6 +5,6 @@ class FinnaBeOctoDubstep < Formula
 	sha256 "e728979da61d78f00f61a9c009185e613f00f62e383211459007546987bcb480"
 
 	def install
-		bin.install "praiseprose"
+		bin.install "prosepraise"
 	end
 end
